@@ -139,7 +139,7 @@
 - 运行 `XpayApplication.java`
 - 访问默认端口8888：http://localhost:8888
 ### Linux后台运行示例
-`nohup java -jar xpay-1.0-SNAPSHOT.jar -Xmx128m &`
+`$ nohup java -jar xpay-1.0-SNAPSHOT.jar -Xmx128m &`
 ### 作者其他项目推荐
 - [XMall：基于SOA架构的分布式电商购物商城](https://github.com/Exrick/xmall)
 
@@ -164,4 +164,6 @@
 ![](http://p77xsahe9.bkt.clouddn.com/18-7-20/54731550.jpg)
 
 ![](http://p77xsahe9.bkt.clouddn.com/18-6-28/32845239.jpg)
+
+
 
