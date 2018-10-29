@@ -161,9 +161,9 @@
 
 - 作者博客：[http://blog.exrick.cn](http://blog.exrick.cn)
 ### 捐赠
-![](http://p77xsahe9.bkt.clouddn.com/18-7-20/54731550.jpg)
+![](https://raw.githubusercontent.com/bovlov/xpay/master/screenshot/weipay_c02.jpg)
 
-![](http://p77xsahe9.bkt.clouddn.com/18-6-28/32845239.jpg)
+![](https://raw.githubusercontent.com/bovlov/xpay/master/screenshot/alipay_c02.png)
 
 
 
